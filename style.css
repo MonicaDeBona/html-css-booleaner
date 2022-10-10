@@ -9,6 +9,7 @@ header{
 #logo {
     width: 300px;
 }
+
 #Title {
     font-size: 4.5rem;
 }
@@ -37,7 +38,20 @@ header{
     background-color: rgb(0, 140, 255);
 }
 
-.bottom-img {
-    background-image: url(img/graph.jpg)
-    ;
+.azure-table {
+    background-color: aquamarine;
+}
+
+.img1-bottom {
+    background-image: url(img/monitor.jpg);
+    background-size: cover;
+    height: 200px;
+    width: 300px;
+}
+
+.img2-bottom {
+    background-image: url(img/graph.jpg);
+    background-size: cover;
+    height: 200px;
+    width: 300px;
 }
