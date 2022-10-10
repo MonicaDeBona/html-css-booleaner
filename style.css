@@ -22,7 +22,7 @@ header{
     color: rgb(0, 140, 255);
 }
 
-#Booleaner-grey {
+.gray-text {
     color: gray;
 }
 
@@ -54,4 +54,9 @@ header{
     background-size: cover;
     height: 200px;
     width: 300px;
+}
+
+.bottom-span {
+    font-size: 1.5rem;
+    color: white;
 }
