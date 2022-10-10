@@ -1,7 +1,39 @@
+
+
+header{
+    background-color: rgba(61, 128, 228, 0.562);
+    background-image: url(img/pattern.png);
+    height: 180px;
+}
+#Title {
+    font-size: 4.5rem;
+}
+
+#Booleaner {
+    font-size: 1rem;
+}
+
 #Booleaner-blue {
     color: rgb(0, 140, 255);
 }
 
 #Booleaner-grey {
     color: gray;
+}
+
+#Description-img {
+    font-size: 0.7rem;
+}
+
+.Yellow-text {
+    background-color: rgb(255, 238, 0);
+}
+
+.Blue-table {
+    background-color: rgb(0, 140, 255);
+}
+
+.bottom-img {
+    background-image: url(img/graph.jpg)
+    ;
 }
