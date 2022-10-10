@@ -10,15 +10,15 @@ header{
     width: 300px;
 }
 
-#Title {
+#title {
     font-size: 4.5rem;
 }
 
-#Booleaner {
+#booleaner {
     font-size: 1rem;
 }
 
-#Booleaner-blue {
+#booleaner-blue {
     color: rgb(0, 140, 255);
 }
 
@@ -26,15 +26,15 @@ header{
     color: gray;
 }
 
-#Description-img {
+#description-img {
     font-size: 0.7rem;
 }
 
-.Yellow-text {
+.yellow-text {
     background-color: rgb(255, 238, 0);
 }
 
-.Blue-table {
+.blue-table {
     background-color: rgb(0, 140, 255);
 }
 
