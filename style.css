@@ -26,7 +26,7 @@ header{
 }
 
 #booleaner-blue {
-    color: rgb(0, 140, 255);
+    color: #4ea0ff;
 }
 
 .gray-text {
@@ -35,15 +35,24 @@ header{
 
 #description-img {
     font-size: 0.7rem;
+    margin-top: 0.1rem;
 }
 
-.blue-table {
-    background-color: rgb(0, 140, 255);
+thead {
+    text-align: left;
+    background-color: #4ea0ff;
+    color: white;
 }
 
-.azure-table {
-    background-color: aquamarine;
+.double-column {
+    width: 50%;
 }
+
+tbody tr:nth-child(odd) {
+    background-color: #b1e5f2;
+}
+
+
 
 .img1-bottom {
     background-image: url(img/monitor.jpg);
