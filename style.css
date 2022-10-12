@@ -1,13 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
 
 
 header{
-    background-color: rgba(61, 128, 228, 0.562);
+    background-color: #4ea0ff;
     background-image: url(img/pattern.png);
-    height: 180px;
+    height: 12rem;
 }
 
 #logo {
     width: 300px;
+    padding-top: 6rem;
 }
 
 #title {
