@@ -38,6 +38,10 @@ header{
     margin-top: 0.1rem;
 }
 
+table {
+    border-collapse: collapse;
+}
+
 thead {
     text-align: left;
     background-color: #4ea0ff;
@@ -51,8 +55,6 @@ thead {
 tbody tr:nth-child(odd) {
     background-color: #b1e5f2;
 }
-
-
 
 .img1-bottom {
     background-image: url(img/monitor.jpg);
